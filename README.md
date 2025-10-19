@@ -6,7 +6,7 @@ This repository features a **multi-page Power BI dashboard** developed to uncove
 
 ## 📌 Project Highlights
 
-> “From ocean to insights — transforming raw data into actionable intelligence.”
+> “From ocean to insights transforming raw data into actionable intelligence.”
 
 Built with Power BI and driven by DAX, this project includes interactive dashboards across three core views:
 
