@@ -1,6 +1,6 @@
 # 🌊 OceanX Fisheries | End-to-End Power BI Sales & Product Analysis
 
-This repository features a **multi-page Power BI dashboard** developed to uncover sales, product, and customer insights for **OceanX Fisheries** — a global seafood distribution business. Designed to support business intelligence reporting and executive decision-making, this project is a full demonstration of analytical storytelling, stakeholder-centered design, and high-impact data modeling.
+This repository features a **multi-page Power BI dashboard** developed to uncover sales, product, and customer insights for **OceanX Fisheries** a global seafood distribution business. Designed to support business intelligence reporting and executive decision-making, this project is a full demonstration of analytical storytelling, stakeholder-centered design, and high-impact data modeling.
 
 ---
 
@@ -76,5 +76,3 @@ I’m **Tosin Bello**, a results-driven Data Analyst & Data Scientist with a pas
 ## ✨ Final Thoughts
 
 This dashboard suite demonstrates how **data visualization can drive smarter fisheries management, product tracking, and revenue performance monitoring**. It reflects my ability to build **analytics tools that empower leadership teams**.
-
-> ⭐ If this project inspires or aligns with your goals, feel free to **star this repo** or **reach out for collaboration or freelance opportunities**.
